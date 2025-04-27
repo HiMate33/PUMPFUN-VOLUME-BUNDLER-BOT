@@ -1,0 +1,7 @@
+solana
+solana-py
+python-telegram-bot
+selenium
+requests
+asyncio
+streamlit
