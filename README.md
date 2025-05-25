@@ -74,7 +74,6 @@ Designed to simulate organic activity, build hype, and help tokens gain early tr
 
 ## 🧪 Technologies Used
 - Python  
-- Selenium  
 - Solana-Py  
 - Jupiter Aggregator API  
 - Telegram Bot API  
